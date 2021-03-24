@@ -1,0 +1,1 @@
+my first bash command promt test in my computer
