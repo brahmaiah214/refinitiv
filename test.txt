@@ -1,1 +1,5 @@
-my first bash command promt test in my computer
+my first bash command promt test in my computer.
+successfully added
+and also github also added
+
+
